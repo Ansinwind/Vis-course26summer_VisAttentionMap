@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+.ipynb_checkpoints/
+train/.ipynb_checkpoints/
+train/vqa_data/
